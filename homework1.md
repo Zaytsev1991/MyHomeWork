@@ -13,3 +13,5 @@
 to view the history, enter *git log*
 
 if you see *:* , press enter until you see *END*
+
+to exit from logs press *Q*
