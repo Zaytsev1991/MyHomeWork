@@ -19,3 +19,6 @@ to exit from logs press *Q*
 to switch to the desired state (*git checkout "the first four characters of the yellow line"*)
 
 to switch to the curred state (*git checkout master*)
+
+
+to clear the terminal screen, enter *clear*
