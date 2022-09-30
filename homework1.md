@@ -11,3 +11,5 @@
 ## ATTENTION  do not forget to save before performing steps 4 and 5
 
 to view the history, enter *git log*
+
+if you see *:* , press enter until you see *END*
