@@ -22,3 +22,5 @@ to switch to the curred state (*git checkout master*)
 
 
 to clear the terminal screen, enter *clear*
+
+Жду оценки, спасибо)
