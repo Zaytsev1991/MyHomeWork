@@ -15,3 +15,5 @@ to view the history, enter *git log*
 if you see *:* , press enter until you see *END*
 
 to exit from logs press *Q*
+
+to switch to the desired state (*git checkout "the first four characters of the yellow line"*)
