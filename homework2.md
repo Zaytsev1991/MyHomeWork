@@ -1,6 +1,7 @@
 __BRANCHES__
 
-___this line is needed for different types of merging, it will be explained further___
+___this line is needed for different types of merging, it will be explained further
+this line should have been written in the master___
 
 * _creating branches and switching to them_
 
