@@ -23,6 +23,8 @@ this line should have been written in the master___
 
     In this case, after the merge, you need to create a commit
 
+    At the same time, the difference in the master and the branch is combined
+
 * _conflicts and their resolution_
 
     1. selecting a specific branch
