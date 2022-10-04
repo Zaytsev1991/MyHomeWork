@@ -2,6 +2,8 @@ __BRANCHES__
 
 * _creating branches and switching to them_
 
+    If you want to create a branch, then enter (_git branch < name of your branch >_)
+
 * _merging branches in the state fast-forward_
 
 * _merging branches in the state ort strategy_
