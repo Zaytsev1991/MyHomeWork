@@ -10,6 +10,10 @@ __BRANCHES__
 
 * _merging branches in the state fast-forward_
 
+    Merging _Fast-Forward_ is when the elements of a branch go into the main body without disputes, following each other
+
+    With such a merge, a commit about this is created automatically
+
 * _merging branches in the state ort strategy_
 
 * _conflicts and their resolution_
