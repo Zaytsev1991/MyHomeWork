@@ -1,5 +1,7 @@
 __BRANCHES__
 
+___this line is needed for different types of merging, it will be explained further___
+
 * _creating branches and switching to them_
 
     If you want to create a branch, then enter (_git branch < name of your branch >_)
@@ -15,6 +17,10 @@ __BRANCHES__
     With such a merge, a commit about this is created automatically
 
 * _merging branches in the state ort strategy_
+
+    If, during the merge, the master changes not only in the part of the body going further, but also in the part of the master before, while not creating a conflict, the merge will occur
+
+    In this case, after the merge, you need to create a commit
 
 * _conflicts and their resolution_
 
