@@ -29,4 +29,6 @@ this line should have been written in the master___
 
     1. selecting a specific branch
 
+        __let's create a conflict, ha ha ha__
+
     2. combining branches
