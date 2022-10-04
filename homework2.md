@@ -21,7 +21,7 @@ this line should have been written in the master___
 
     If, during the merge, the master changes not only in the part of the body going further, but also in the part of the master before, while not creating a conflict, the merge will occur
 
-    In this case, after the merge, you need to create a commit
+    In this case, after the merge, you no need to create a commit
 
     At the same time, the difference in the master and the branch is combined
 
