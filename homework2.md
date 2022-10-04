@@ -36,3 +36,5 @@ this line should have been written in the master___
         Don't forget to write a commit after resolving the conflict
         
         Also, in case of a conflict, you can combine and leave all the options together
+
+Спасибо за проверку!
