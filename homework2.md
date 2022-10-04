@@ -29,4 +29,6 @@ this line should have been written in the master___
 
     1. selecting a specific branch
 
+        If there is a conflict, when the work is carried out in one area, there is an option to choose what will be the final one, an option in the branch or the master
+
     2. combining branches
