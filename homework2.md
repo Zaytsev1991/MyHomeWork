@@ -40,3 +40,5 @@ this line should have been written in the master___
 ## GITHUB
 
 If you want to create a remote repository, then at the beginning you will need to create your account on github
+
+Then create a new repository in your account, and then describe it in the VScode. After that, you will need to link the new repository to yours using the command (push)
