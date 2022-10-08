@@ -37,4 +37,6 @@ this line should have been written in the master___
         
         Also, in case of a conflict, you can combine and leave all the options together
 
-Спасибо за проверку!
+## GITHUB
+
+If you want to create a remote repository, then at the beginning you will need to create your account on github
