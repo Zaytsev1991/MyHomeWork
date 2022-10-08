@@ -44,3 +44,5 @@ If you want to create a remote repository, then at the beginning you will need t
 Then create a new repository in your account, and then describe it in the VScode. After that, you will need to link the new repository to yours using the command (push)
 
 To interact with someone else's repository, you need to go directly into it and create a fork, thereby creating a kind of side branch to someone else's file in the repository
+
+to interact with someone else's repository, you need to go directly into it and create a fork, thereby creating a kind of side branch to someone else's file in the repository
